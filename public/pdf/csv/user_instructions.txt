@@ -1,0 +1,23 @@
+1. Download the CSV Template for importing user data.
+Use this template as a starting point for entering your user information.
+
+2. Fill in the Required Fields: In the downloaded CSV template, fill in the following required fields for each user:
+
+name: Enter the user's first name.
+lastname: Enter the user's last name.
+email: Provide the user's email address.
+password: Set a password for the user.
+mobile: Enter the user's mobile number.
+address: Provide the user's address.
+country_id: Enter the corresponding ID from the Country table.
+state_id: Enter the corresponding ID from the State table.
+city_id: Enter the corresponding ID from the City table.
+role: Enter the user's role.
+role_id: Enter the corresponding ID from the Role table.
+branch_id: Enter the corresponding ID from the Branch table.
+
+3. Verify Data Accuracy: Double-check that all the information you entered is accurate and matches the provided tables for country, state, city, role, and branch.
+
+4. Save the CSV File: After completing the data entry, save the CSV file with a suitable name for easy identification.
+
+5. Upload the CSV File.
